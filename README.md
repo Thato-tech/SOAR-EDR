@@ -25,3 +25,6 @@ The purpose of this project is to enhance current security operations through co
 
 
 ## Steps
+1.I built my diagram using draw.io and mapped how I would build this lab logically
+<img width="300" height="400" alt="SOAR EDR" src="https://github.com/user-attachments/assets/d0195a0b-803b-4da5-9b0c-04c76892b66b" />
+
